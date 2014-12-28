@@ -11,7 +11,7 @@ The second Arduino is an Arduino-Ethernet with embeded SD card. It serves web-pa
 
 The wiring diagram is shown below. The pin 2 is the interrupt pin - it has a pull-high resistor to pull it up to 5V when there is no signal from the XM10 TTL plug.
 
-![Wiring Schematic](Wiring Schematic.bmp)
+![Wiring Schematic](Wiring Schematic.png)
 
 
 
